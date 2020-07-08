@@ -11,7 +11,7 @@ def assembled_aoh
 end
 
 def literal_aoh
-  [{:name=>
+  [{:name=>"Don Gately", :occupation=>"Live-in Staff"
     
   }]
 end
